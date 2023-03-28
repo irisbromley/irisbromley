@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iris</h1>
 <h3 align="center">Web developer in Vienna</h3>
 
+# My Web Development Journey
+
+I discovered my passion for web development through a family project in real estate. I was tasked with writing a website for the project without any previous knowledge, which turned out to be a challenging yet rewarding experience. From that moment on, I was hooked on web development and have been working on improving my skills ever since. 
+
+I look forward to sharing my progress and projects with you. Thank you for stopping by! 
+
 - 📫 How to reach me **iris.j.bromley@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
